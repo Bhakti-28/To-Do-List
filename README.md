@@ -13,7 +13,7 @@ This is a beginner-friendly todo list application that helps you keep track of y
 1. Make sure you have Python installed on your computer
 2. Run the program by typing:
    ```
-   python simple_todo.py
+   python todo.py
    ```
 3. Follow the menu options:
    - Press 1 to add a task
